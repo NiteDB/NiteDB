@@ -1,16 +1,16 @@
-## Hi there 👋
+## License
+This project is dual-licensed under two separate license terms.
 
-<!--
-**NiteDB/NiteDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. **Non-Commercial Use**
+For non-commercial purposes, this software is licensed under the Apache License 2.0.
+You may freely use, modify, and redistribute the software, provided that you comply with all terms of the Apache License 2.0, including retaining all original copyright notices, attribution statements and patent grant information.
 
-Here are some ideas to get you started:
+2. **Commercial Use**
+Any commercial use of this software, including but not limited to integration into commercial products, commercial SaaS services, paid redistribution, and internal business deployment for revenue-generating activities, **requires a separate commercial license agreement from the copyright holder**.
+No commercial rights are granted under the Apache License 2.0.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To obtain a commercial license, contact: [INSERT YOUR CONTACT EMAIL]
+
+Copyright (c) 2026 NiteDB
+
+
